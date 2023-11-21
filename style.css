@@ -151,7 +151,7 @@ body{
     position: absolute;
 }
 
-@media (max-width: 1440px){
+@media (min-width: 1360px){
     .carousel_left{
         width: 342px;
         height: 169px;
