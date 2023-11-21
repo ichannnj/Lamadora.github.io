@@ -151,5 +151,31 @@ body{
     position: absolute
 }
 
+@media (min-width: 1440px){
+    .carousel_left{
+        width: 342px;
+        height: 169px;
+        margin-right: 1000px;
+    }
+    .carousel_middle{
+        position:absolute;
+        width:754px;
+        height:245px;
+    }
+    .carousel_right{
+        width: 342px;
+        height: 169px; 
+        margin-left: 1000px;
+    }
+    .text_content{
+        margin-right: 900px;
+    }
+    .card_1{
+        margin-left: 100px;
+    }
+    .card_2{
+        margin-left: 900px; 
+    }
+
 
     
